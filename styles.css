@@ -1,0 +1,63 @@
+/*
+    black - #222831
+    blue - #30475e
+    orange - #f2a365
+    white - #ececec
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background: #222831;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.container {
+    background: #30475e;
+    text-align: center;
+    margin: 5% 30%;
+    height: 70%;
+    color: #ececec;
+    padding-top: 2%;
+}
+
+.weather-container{
+    
+}
+
+.app-title {
+    font-size: 300%;
+    margin: 5%;
+}
+
+.weather-icon {
+    margin: 5%;
+}
+
+.temperature-value {
+    font-size: 200%;
+    margin: 5%;
+}
+
+.temperature-description{
+    font-size: 200%;
+    margin: 5%;
+}
+
+.location {
+    font-size: 200%;
+    margin: 5%;
+}
+
+.notification{
+    font-size: 200%;
+}
